@@ -231,4 +231,4 @@ This repository serves as the official landing page for Core Temp. The software 
 **Get the most recent version of Core Temp today!**
 
 ---
-**Last updated:** 2026-10-06 22:19:09 UTC
+**Last updated:** 2026-10-07 02:04:11 UTC
